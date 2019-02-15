@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">APPTimeKeeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Etape : %1$d</string>
+    <string name="button_seance_aller">Séance aller</string>
+    <string name="button_seance_retour">Séance retour</string>
+    <string name="title_activity_seance_aller">SeanceAllerActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="etape_fragment">Etape</string>
+</resources>
